@@ -1,6 +1,6 @@
-# A Chat App project
+# An E-Commerce website
 
-A Chap application developed using Node.js and React
+An E-Commerce website developed using Node.js and React
 
 
 
